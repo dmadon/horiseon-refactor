@@ -22,5 +22,9 @@ View the Horiseon webpage at https://dmadon.github.io/horiseon-refactor/
 
 View the GitHub repository at https://github.com/dmadon/horiseon-refactor
 
-##Preview
+## Preview
+
+![Horiseon Website Screenshot](https://user-images.githubusercontent.com/99852346/171042004-a3f99d0a-54a5-45e1-a744-b04fe9c9a134.png)
+
+
 
